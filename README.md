@@ -21,7 +21,7 @@
 <p><strong>.getIndexOf(valor)</strong> - retorna o index do primeiro valor da memória correspondente ao valor passado (retonrna -1 caso não haja um valor correspondente).</p>
 
 
-<p><strong>.getElementByIndex(valor)</strong> - retorna o elemento correspondente ao index passado ao método. </p>
+<p><strong>.getElementByIndex(index)</strong> - retorna o elemento correspondente ao index passado ao método. </p>
 
 
 <p><strong>.removeAllChilds(valor)</strong> - Remove do armazenamento todos os valores correspondentes ao valor fornecido ao método. </p>
