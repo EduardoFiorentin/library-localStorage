@@ -2,7 +2,7 @@
 
 <h2>COMO INICIAR:</h2>
    <p>Para iniciar, basta criar uma instância de Storage passando ao constructor um nome (no formato string) que será utilizado para nomear o slot de memória criado.</p>
-       <p>EXEMPLO: var armazenamento = new Storage("nome") </p>
+       <p>EXEMPLO: <code>var armazenamento = new Storage("nome")</code> </p>
 
 <h2>COMO USAR:</h2>
        <p>Esta biblioteca foi criada com o intuito de simplificar o uso do localStorage adicionando diversos métodos para facilitar o armazenamento local de dados.</p>
