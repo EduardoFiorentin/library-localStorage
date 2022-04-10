@@ -7,8 +7,7 @@
 <h2>COMO USAR:</h2>
        <p>Esta biblioteca foi criada com o intuito de simplificar o uso do localStorage adicionando diversos métodos para facilitar o armazenamento local de dados.</p>
 
-       <p>Após a criação da instância, você poderá utilizar os seguintes métodos para modificar o armazenamento:</p>
-
+       Após a criação da instância, você poderá utilizar os seguintes métodos para modificar o armazenamento:
 
 <p>.set(valor) - Substitui os dados armazenados pelo novo valor passado ao método.</p>
 
